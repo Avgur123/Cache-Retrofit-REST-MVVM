@@ -2,11 +2,6 @@
 <h1><a href='https://codingwithmitch.com/courses/android-local-database-cache-rest-api/' target='_blank'>Local Database Cache with REST API, Retrofit2, MVVM Architecture</a></h1>
 <h3><a href='https://codingwithmitch.com/courses/android-local-database-cache-rest-api/demo' target='_blank'>Watch the app demo</a>.</h3>
 
-<br>
-In this course you'll learn how to build a <strong>local database cache with SQLite and Room</strong>. The cache retrieves data from a REST API using Retrofit2. Architecture is MVVM.
-<br><br>
-<strong>Here's the specifics of what you will see in the course:</strong>
-<br><br>
 <ol>
 <li>Caching data for when the network goes offline</li>
 <li>Reading cached data when the network is down</li>
